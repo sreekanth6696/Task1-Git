@@ -1,0 +1,10 @@
+Task 1 completed.
+
+Installed gitbash in local machine
+Signed up for github.com
+created repo in github
+CLoned repo from remote to local 
+Made changes
+pushed to remote repo
+
+
